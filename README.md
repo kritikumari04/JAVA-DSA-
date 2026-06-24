@@ -1,16 +1,16 @@
 # Hi, I'm Kriti Kumari 
 
-Computer Science Student | Learning Java & DSA |  Aspiring Software Engineer  
+Computer Science Student | Learning python & DSA |  Aspiring Software Engineer  
 
 # About Me
-- Currently focusing on Java + Data Structures & Algorithms for strong fundamentals  
+- Currently focusing on python + Data Structures & Algorithms for strong fundamentals  
 - Solving DSA problems daily and improving problem-solving skills  
 - Preparing for internships & software engineering roles
 - Projects coming soon 
 
 
 # Current Learning
-- Java (Core + OOPS)
+- OOPS,DBMS
 - Data Structures & Algorithms
 - Problem Solving (LeetCode)
 
